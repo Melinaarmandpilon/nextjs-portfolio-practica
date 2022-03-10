@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-portfolio-practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melinaarmandpilon/nextjs-portfolio-practica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melinaarmandpilon/nextjs-portfolio-practica/issues"
+  },
+  "homepage": "https://github.com/Melinaarmandpilon/nextjs-portfolio-practica#readme",
+  "dependencies": {
+    "bootswatch": "^5.1.3",
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
