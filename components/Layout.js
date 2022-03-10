@@ -1,6 +1,6 @@
 //acá podemos crear la navegación
 import Navbar from "./Navbar";
-import Head from "next/head";
+
 
 const Layout = ({children}) => (
   <>
